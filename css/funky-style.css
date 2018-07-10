@@ -7713,6 +7713,10 @@ input[type=number]::-webkit-outer-spin-button{
 	width: 100%;
 	display: block;
 }
+.footer{
+    position: absolute;
+    bottom: 0;
+}
 .footer-1 .btn.subscribe-footer{
 	position: absolute;
 	top:0;
