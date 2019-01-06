@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/tsparksh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thesparks.github.io
+  * I am tsparksh (https://keybase.io/tsparksh) on keybase.
+  * I have a public key with fingerprint DB67 C4A0 FCA2 59AA 162C  92E5 3CE5 0A5A 925E 3EE4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120981653eceb15dd9b77acfb3c76a336ec661c4ee77ba87a0f0738b3a87d94cb120a",
+      "fingerprint": "db67c4a0fca259aa162c92e53ce50a5a925e3ee4",
+      "host": "keybase.io",
+      "key_id": "3ce50a5a925e3ee4",
+      "kid": "0101438fc8fed5ee3e405b07097eb1d8cdbb7d0586db397e4d4c59327b0ecab19f0e0a",
+      "uid": "675e1f7eace20e84d0d3df7c66d71519",
+      "username": "tsparksh"
+    },
+    "service": {
+      "hostname": "thesparks.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546797322,
+  "expire_in": 157680000,
+  "prev": "05a1e90258e2b3ef9f7c1909eeab5b27b63af921865c277129d2604abf2ac40e",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNwAnicbZJrTBRXGIYXVFI25WJMXUJLa0fREJd17pfVmipBKikipaVGgWXOzJmd
+KTCz7M4iW0SbhqRSi7aktmQxSNqmtY2CwVJhG4qg0dqKBugllUbQyCW2FlLpKhel
+M1j+9fw5Z77zfO+875dzIWaJxRqxacS6u65w8+2IH7sb/ZZ8fIu1EgGaGECclUgx
+XNhgiQh9uqtYEREngmI4yrEYTRFQgACjRJEDDMMLEiAEhuYJgoYCTWMCCSHDAJ5l
+eFRCGYIFhHEWOVIAhgCP2BFJUd3Q6/Eqqm7IioBmBNJgBR6nOJ7HaFzgcEgRAqRQ
+nuI5nIIEhKTRKGs+s8MwB3gfdCiaUTM+XAv2/odf9I1iJMFKAitBkYLGJYlSAGVQ
+jjFiiKwgAsCIKMXSIiCMGimSAsUROANQKPAA4yQULvj2L8jRDAUxiYG8AHEUsqSI
+ioQoMUZ0kcEojDNBH/SqfCk0aN3n4b3FPhmpsiNGtVwRoDlYM8kiIcPHjMOt6LIf
+PI7l8Wq6JmglBiDrusfnNAX0gMfs2AuB6z8tF1BU0Rin0VEOvT5FUxEnZpCCrpji
+GEXSDMcQOG5HYIVH8UKXYhIUQ7Ooscz/wHJzRhSPQQ7FKRbigIASZwTCOJSDkAcU
+MEZBE7zE4RhLUwLOMBjOiTiNkjyQcF4gUYiY6cpUDXFyhk3ebUj6FLfK634vRKp6
+uvOXWiKslqhlkeYzs1ij4xcfn7Yrbl492TSzoX5r6GOH/HlOx8YKwRsbSkitwMJn
+nk5OmbCMNO56kBc3vne9d8fspVHeOVc0MFldGHQP3ba6316RcWO54N/SVt3lBttv
+fhQea3MVzs/usyb91f7oA1uoq/PZt/bMfBGtJQQGS5LrD5ZHBo7aryRmpc5LExeb
+xoKtR5IqBvxY3sjd8kFbRmh1xjegpgaNG13+zJ14xwtj7Wxobnv7w3vnUevUleDv
+WUcyAnnDcZnHbDV31vWsvXlu3Se5h+73lyajVXetU/kRw99PM/1/fjbwYiirWot1
+dtzKFH4lbtEn6ytfSj8U3t8U7DqXEtOVSRU3rGRaQ9MTZR65uCXv2s6nys7njj8p
+X151Ou2NJb0HX/fGvJcd893wVeW1+bNWyxOn9gwHcuV7deqrpZ+uzPr2TCgp8eGD
+2TdrI9RwZLrj0unWmXeH9h2//1Ns2bHY56ui9quunbqK69tSBl8eC63oUbZqM1GX
+Gxx1Q92BZX+kHy+wVxz4UP5yU0eVbTXe4Oqc8xVMN7uQlKKE/PfXNmLUZGd/s213
+w9+Rc2efi8/I5gu6d/ha5FfWTCV+XSIThw8s/SHjK3zwevej0RMnSmp719fGNZ66
+mnY9XNrXW9s2+4/oH49Oz/ltQ1/LqqMXw1MXbvycFiwKpqq9k78g6Y0Jm23vtPZd
+2xY5nN2XstGekNOcs+ZfYcPGzA==
+=5fxH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsparksh
+
+==================================================================
