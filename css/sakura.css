@@ -1,0 +1,17 @@
+body {
+	background: url(../img/full.jpg) no-repeat center center fixed;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+	height: 600px;
+}
+canvas {
+	opacity: 97%;
+    padding:0;
+    margin:0;
+}
+div.btnbg {
+    position:fixed;
+    left:0;
+    top:0;
+}
